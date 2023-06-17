@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "245880670486",
+    "firebase_url": "https://infiniteathletesapp.firebaseio.com",
+    "project_id": "infiniteathletesapp",
+    "storage_bucket": "infiniteathletesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245880670486:android:bcb48ba80bd211f7bb6837",
+        "android_client_info": {
+          "package_name": "com.infinite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245880670486-4de6dk50gnh7p00bvl5qlucrg8g4qmut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinite",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "245880670486-aldls4gk4cg9l1e1hkk0024dihe1bsqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3QZTqjGgzp2pVyV--23qM6BfGndHKgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245880670486-aldls4gk4cg9l1e1hkk0024dihe1bsqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245880670486-16va5hmsqbrlhrdfv35rraruggai2ulu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infiniteAthlete"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
